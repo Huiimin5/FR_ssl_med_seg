@@ -1,1 +1,1 @@
-# FR_ssl_med_seg
+# The code will be released after the paper is published.
